@@ -1,8 +1,5 @@
-﻿# Game--ShareSDK-Angry-Eva
-一个接入SDK的小工程用于测试，不可用于商业。
-
-# TUTORIAL--Editor-Extension
-## Unity3D 换装系统的教程实例
+# Game--ShareSDK-Angry-Eva
+##一个接入SDK的小工程用于测试，不可用于商业。
 
 ----------
 <table><tr><td bgcolor= #000000>
